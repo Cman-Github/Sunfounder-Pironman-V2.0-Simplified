@@ -33,7 +33,7 @@ GPIO 6
 
 ```bash
 git clone https://github.com/Cman-Github/Sunfounder-Pironman-V2.0-Simplified.git
-cd rpi-fan-controller
+cd Sunfounder-Pironman-V2.0-Simplified
 ```
 
 ### 2. Install dependencies
