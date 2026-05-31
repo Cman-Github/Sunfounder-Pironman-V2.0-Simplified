@@ -1,7 +1,7 @@
 import os
 
-__app_name__ = 'drdoomed'
-__version__ = '1'
+__app_name__ = 'pironman'
+__version__ = '2.2.9'
 
 try:
     username = os.getlogin()  # can run at boot
